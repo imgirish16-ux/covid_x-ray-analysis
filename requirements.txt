@@ -1,9 +1,8 @@
-tensorflow
+streamlit
+tensorflow==2.16.1
 numpy
-pandas
+pillow
+scikit-learn
 matplotlib
 seaborn
-scikit-learn
-opencv-python
-pillow
-streamlit
+h5py
